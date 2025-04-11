@@ -1,0 +1,10 @@
+
+dotenv
+langgraph
+IPython
+langchain_core
+typing
+typing_extensions
+re
+langchain_ollama
+pydantic
