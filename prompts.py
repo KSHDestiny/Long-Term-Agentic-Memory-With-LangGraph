@@ -55,6 +55,8 @@ agent_system_prompt = """
     1. write_email(to, subject, content) - Send emails to specified recipients
     2. schedule_meeting(attendees, subject, duration_minutes, preferred_day) - Schedule calendar meetings
     3. check_calendar_availability(day) - Check available time slots for a given day
+    4. manage_memory - Store any relevant information about contacts, actions, discussion, etc. in memory for future reference
+    5. search_memory - Search for any relevant information that may have been stored in memory
     </ Tools >
 
     < Instructions >
